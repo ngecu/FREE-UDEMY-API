@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+
+fetch("https://github.com/ngecu/FREE-UDEMY-API/blob/main/data.json",{mode: "no-cors"})
+            .then(function (response) {
+                response.json().then(function (responseText) {
+                    console.log(responseText);
+                    alert("Done using Fetch!");
+                });
+            });
+
+//     // https://vibrant-sinoussi-3f6d73.netlify.app/data.json
+//     fetch('./data.json',{mode: "no-cors"})
+//   .then(response => response.json())
+//   .then(data => console.log(typeof(data)));
+
+</script>
+</html>

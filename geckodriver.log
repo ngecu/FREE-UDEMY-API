@@ -1183,3 +1183,62 @@ JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 187
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1876: uncaught exception: [object Object]
 JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/category-free-udlite-udlite-app.6b84aff1c27ade00afbf.js, line 1: TypeError: n is null
 1626125290314	Marionette	INFO	Stopped listening on port 52666
+1626254643891	geckodriver	INFO	Listening on 127.0.0.1:52924
+1626254646912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngecu\\AppData\\Local\\Temp\\rust_mozprofilewGocaK"
+*** You are running in headless mode.
+1626254649548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ngecu\\AppData\\Local\\Temp\\rust_mozprofilewGocaK\\search.json.mozlz4", (void 0)))
+1626254658751	Marionette	INFO	Listening on port 52934
+1626254659574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1876: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1876: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/category-free-udlite-udlite-app.40639e7a9f3459e96e0d.js, line 1: TypeError: n is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngecu\\AppData\\Local\\Temp\\rust_mozprofileg7JHl2"
+*** You are running in headless mode.
+1626254782439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ngecu\\AppData\\Local\\Temp\\rust_mozprofileg7JHl2\\search.json.mozlz4", (void 0)))
+1626254785405	Marionette	INFO	Listening on port 53244
+1626254785808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/category-free-udlite-udlite-app.40639e7a9f3459e96e0d.js, line 1: TypeError: n is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.1032f12f73fb0f544fb3.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.1032f12f73fb0f544fb3.js, line 1: Error: Request aborted
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngecu\\AppData\\Local\\Temp\\rust_mozprofileo659GO"
+1626255118593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ngecu\\AppData\\Local\\Temp\\rust_mozprofileo659GO\\search.json.mozlz4", (void 0)))
+1626255123504	Marionette	INFO	Listening on port 53842
+1626255123627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.1032f12f73fb0f544fb3.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.1032f12f73fb0f544fb3.js, line 1: Error: Request aborted
+1626255250995	Marionette	INFO	Stopped listening on port 53842
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626255256275	geckodriver	INFO	Listening on 127.0.0.1:54291
+1626255259334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngecu\\AppData\\Local\\Temp\\rust_mozprofile7BqvRM"
+1626255260855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ngecu\\AppData\\Local\\Temp\\rust_mozprofile7BqvRM\\search.json.mozlz4", (void 0)))
+1626255264494	Marionette	INFO	Listening on port 54302
+1626255264752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1876: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1876: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/category-free-udlite-udlite-app.40639e7a9f3459e96e0d.js, line 1: TypeError: n is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/category-free-udlite-udlite-app.40639e7a9f3459e96e0d.js, line 1: TypeError: n is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/common-udlite-desktop-udlite-app.c1b84185e7e5e50d1471.js, line 1: TypeError: t.data is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.1032f12f73fb0f544fb3.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.1032f12f73fb0f544fb3.js, line 1: Error: Request aborted
+1626255761540	Marionette	INFO	Stopped listening on port 54302
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
