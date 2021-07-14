@@ -1,0 +1,130 @@
+[
+    {
+        "puta": "https://www.udemy.com/course/code-your-first-game/",
+        "title": "Code Your First Game: Arcade Classic in JavaScript on Canvas",
+        "headline": "Program a complete game today. No special software or install required. All you need is a text editor and a web browser.",
+        "instructor": "Chris DeLeon",
+        "rating": "4.6",
+        "revies": "(26,548)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/7-scientifically-proven-steps-to-increase-your-influence/",
+        "title": "7 Scientifically Proven Steps to Increase Your Influence",
+        "headline": "Learn the science of charisma. Increase your impact, influence and income using 7 science based steps.",
+        "instructor": "Vanessa Van Edwards, Science of People",
+        "rating": "4.5",
+        "revies": "(23,725)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/manageyourtime/",
+        "title": "A Mini Course on Time Management",
+        "headline": "7 steps you can use immediately to become more productive and master time management",
+        "instructor": "Brandon Hakim, Insider School",
+        "rating": "4.5",
+        "revies": "(23,039)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/free-photography-course-for-beginners/",
+        "title": "Introductory Photography Course",
+        "headline": "The fastest way to get off 'Auto' mode and unlock the creative potential of your camera.",
+        "instructor": "Chris Bray",
+        "rating": "4.7",
+        "revies": "(16,707)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/pivot-table-basics/",
+        "title": "Microsoft Excel Pivot Tables - The Beginner Course",
+        "headline": "Start analyzing data with Excel's most powerful data analysis tool, Pivot Tables. They're easier than you think!",
+        "instructor": "Matt Jackman",
+        "rating": "4.6",
+        "revies": "(14,277)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/html5-fundamentals-for-beginners/",
+        "title": "HTML5 and CSS3 Fundamentals",
+        "headline": "Build your very own website with HTML5 from scratch using HTML5 and CSS3 - designed for complete beginners",
+        "instructor": "Stone River eLearning",
+        "rating": "4.6",
+        "revies": "(13,206)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/goal-setting/",
+        "title": "How to Use SMART Goals: Achieve More in Less Time",
+        "headline": "Use a proven goal setting strategy to increase your productivity, leadership and management skills. Achieve more today.",
+        "instructor": "Richard Feenstra",
+        "rating": "4.5",
+        "revies": "(10,808)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/quick-guide-to-working-remotely-from-vp-of-learning/",
+        "title": "Best Practices for Working Remotely",
+        "headline": "Join Shelley Osborne, VP of Learning, for her best tips to set yourself up for success when working from home.",
+        "instructor": "Shelley Osborne, Udemy Learning Team",
+        "rating": "4.5",
+        "revies": "(9,807)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/fearless-public-speaker-bootcamp-by-ricky-mendoza/",
+        "title": "How to speak to anyone & be fearless - in less than 55 min",
+        "headline": "Learn to quickly connect with crowds of strangers, be better on dates or ace that job interview.",
+        "instructor": "Ricardo Mendoza",
+        "rating": "4.5",
+        "revies": "(8,189)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/",
+        "title": "Git & GitHub Crash Course: Create a Repository From Scratch!",
+        "headline": "Learn how to create a Git repository, clone it, make changes, and submit changes to GitHub in less than 30 minutes.",
+        "instructor": "Kalob Taulien",
+        "rating": "4.6",
+        "revies": "(7,006)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/photography-for-beginners/",
+        "title": "Photography Fundamentals for Beginners",
+        "headline": "Learn the exposure triangle (aperture, shutter speed, ISO) and basic composition rules in this easy photography course.",
+        "instructor": "Phil Ebiner, Video School",
+        "rating": "4.6",
+        "revies": "(6,820)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/programming-101/",
+        "title": "Programming 101",
+        "headline": "Comprehend basic foundational knowledge of hardware, networking, programming and licensing.",
+        "instructor": "Lawrence Turton",
+        "rating": "4.7",
+        "revies": "(6,687)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/adobe-xd-experience-design/",
+        "title": "How to Design & Prototype in Adobe XD",
+        "headline": "Everything you need to know about Adobe XD to start designing & prototyping awesome apps.",
+        "instructor": "Daniel White",
+        "rating": "4.6",
+        "revies": "(6,294)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/change-agility-in-the-workplace-become-a-change-agent/",
+        "title": "Change Agility in the Workplace: Become a Change Agent",
+        "headline": "Become an agent of change by adopting the agility and resilience skills required in the evolving modern workplace.",
+        "instructor": "Shelley Osborne, Udemy Learning Team",
+        "rating": "4.5",
+        "revies": "(6,012)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/security-awareness-campaigns/",
+        "title": "Security Awareness Campaigns (Lite)",
+        "headline": "This is the \"lite\" version of Security Awareness Campaigns and is meant to give you an idea of the full course.",
+        "instructor": "Michael Goedeker",
+        "rating": "4.3",
+        "revies": "(5,405)"
+    },
+    {
+        "puta": "https://www.udemy.com/course/art-fundamentals-in-one-hour/",
+        "title": "Art Fundamentals - Building Blocks of Digital Painting",
+        "headline": "A beginner's guide to the building blocks of digital art",
+        "instructor": "Hardy Fowler",
+        "rating": "4.8",
+        "revies": "(5,197)"
+    }
+]
